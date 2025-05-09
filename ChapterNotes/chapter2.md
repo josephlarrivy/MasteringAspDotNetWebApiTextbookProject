@@ -105,3 +105,13 @@
 - DELETE requests are idempotent
 - If the resource exists, a 200 is usually returned
 - If the resource does not exist, a 404 is usually returned
+
+## Enhanced Summary of Creating a RESTful API
+
+- Uses nouns for endpoints and follows consistent naming (/users not /getUsers)
+- Follows and uses the proper methods correctly (GET, POST, PUT, DELETE)
+- Returns the appropriate HTTP status codes (200, 201, 404, etc)
+- Is sateless - each requests contains the needed information
+- Includes versioning
+- Supports pagination, filtering, and sorting via query params
+- Secred with HTTPS and proper authentication

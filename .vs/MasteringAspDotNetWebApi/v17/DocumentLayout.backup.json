@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapterThree.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChapterNotes\\chapterThree.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapter3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChapterNotes\\chapter3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapterTwo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChapterNotes\\chapterTwo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapter2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChapterNotes\\chapter2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapter1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChapterNotes\\chapter1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\learning\\MasteringAspDotNetWebApi\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapterOne.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChapterNotes\\chapterOne.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,12 +46,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "chapterOne.md",
-              "DocumentMoniker": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapterOne.md",
-              "RelativeDocumentMoniker": "ChapterNotes\\chapterOne.md",
-              "ToolTip": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapterOne.md",
-              "RelativeToolTip": "ChapterNotes\\chapterOne.md",
+              "DocumentIndex": 2,
+              "Title": "chapter1.md",
+              "DocumentMoniker": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapter1.md",
+              "RelativeDocumentMoniker": "ChapterNotes\\chapter1.md",
+              "ToolTip": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapter1.md",
+              "RelativeToolTip": "ChapterNotes\\chapter1.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-07T13:29:52.544Z",
@@ -60,12 +60,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "chapterTwo.md",
-              "DocumentMoniker": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapterTwo.md",
-              "RelativeDocumentMoniker": "ChapterNotes\\chapterTwo.md",
-              "ToolTip": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapterTwo.md",
-              "RelativeToolTip": "ChapterNotes\\chapterTwo.md",
-              "ViewState": "AgIAADsAAAAAAAAAAAAUwGsAAAAAAAAAAAAAAA==",
+              "Title": "chapter2.md",
+              "DocumentMoniker": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapter2.md",
+              "RelativeDocumentMoniker": "ChapterNotes\\chapter2.md",
+              "ToolTip": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapter2.md",
+              "RelativeToolTip": "ChapterNotes\\chapter2.md",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-07T14:26:26.961Z",
               "EditorCaption": ""
@@ -73,12 +73,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "chapterThree.md",
-              "DocumentMoniker": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapterThree.md",
-              "RelativeDocumentMoniker": "ChapterNotes\\chapterThree.md",
-              "ToolTip": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapterThree.md",
-              "RelativeToolTip": "ChapterNotes\\chapterThree.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Title": "chapter3.md",
+              "DocumentMoniker": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapter3.md",
+              "RelativeDocumentMoniker": "ChapterNotes\\chapter3.md",
+              "ToolTip": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\ChapterNotes\\chapter3.md",
+              "RelativeToolTip": "ChapterNotes\\chapter3.md",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-07T17:03:08.676Z",
               "EditorCaption": ""
@@ -91,7 +91,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Code\\learning\\MasteringAspDotNetWebApi\\README.md",
               "RelativeDocumentMoniker": "README.md",
